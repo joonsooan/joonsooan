@@ -1,4 +1,4 @@
-👋 Hi there! I'm a college student learning programming 🍟
+👋 Hi there! I'm a college student learning programming 💎
 
 
 🌱 I’m currently learning React, Typescript, Javascript!
