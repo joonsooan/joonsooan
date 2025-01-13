@@ -1,9 +1,10 @@
 <div style="text-align: left;">
   <div style="font-weight: 700; font-size: 15px; color: #282d33; margin-bottom: 10px;">
     👋 Hi there! I'm a college student learning programming
+  </div>
+  <div style="font-weight: 700; font-size: 15px; color: #282d33; margin-bottom: 10px;">
     🌱 I’m currently studying C++, C#, Game devlopment
   </div>
-  
   <div style="text-align: left; margin-bottom: 20px;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 10px;"> 🛠️ Tech Stacks </h2>
     <div style="text-align: left; margin-left: 10px;">
