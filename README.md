@@ -5,11 +5,11 @@
   </div>
   
   <div style="margin-bottom: 30px;">
-    <h2 style="border-bottom: 2px solid #d8dee4; font-size: 16px; margin-bottom: 15px; padding-bottom: 5px;">🛠️ Tools</h2>
+    <h2 style="font-size: 16px; margin-bottom: 15px;">🛠️ Tools</h2>
     <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-left: 10px;">
       <img src="https://img.shields.io/badge/C%23-390091?style=for-the-badge&logo=C-Sharp&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/Unity-383838?style=for-the-badge&logo=Unity&logoColor=white" alt="Unity">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Python-3776aa?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
     </div>
   </div>
 </div>
